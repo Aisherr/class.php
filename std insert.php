@@ -69,7 +69,7 @@ include "db_connect.php";
 
     Reg_no:<br>
 
-    <input type="number" name="reg_no">
+    <input type="text" name="reg_no">
 
     <br>
     Course:<br>
